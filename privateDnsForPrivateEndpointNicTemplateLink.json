@@ -6,7 +6,7 @@
             "type": "string"
         },
         "ipConfigurations": {
-            "type": "string"
+            "type": "array"
         },
         "uniqueId": {
             "type": "string"
