@@ -24,7 +24,7 @@
                 "mode": "Incremental",
                 "templateLink": {
                     "contentVersion": "1.0.0.0",
-                    "uri": "https://drive.google.com/u/0/uc?id=1xU3iOgLbCDqpruBlkqC3BsrtSh4Fyr53&export=download"
+                    "uri": "https://raw.githubusercontent.com/renu418/linkedTemplates/main/privateDnsForPrivateEndpointIpConfigTemplateLink.json"
                 },
               "parameters": {
                 "privateDnsName": {
